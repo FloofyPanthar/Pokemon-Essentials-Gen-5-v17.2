@@ -1,0 +1,35 @@
+﻿[000]
+EndSpeechLose="Man, I lost!"
+Name=MATAS
+PokemonNos=36,38,42,43,56,76,78,91,94,105,108,115
+BeginSpeech=Here I come!
+Type=HARLEQUIN
+EndSpeechWin="Yes, I won!"
+[001]
+EndSpeechLose="Man, I lost!"
+Name=KUIO
+PokemonNos=14,26,33,34,35,37,41,47,52,71,74,101,107,109,114
+BeginSpeech=Here I come!
+Type=HARLEQUIN
+EndSpeechWin="Yes, I won!"
+[002]
+EndSpeechLose="Man, I lost!"
+Name=PAH
+PokemonNos=9,20,26,34,37,43,48,51,62,64,65,70,77,109,111
+BeginSpeech=Here I come!
+Type=YOUNGSTER
+EndSpeechWin="Yes, I won!"
+[003]
+EndSpeechLose="Man, I lost!"
+Name=PARIK
+PokemonNos=0,1,10,12,21,34,47,70,97,115,121
+BeginSpeech=Here I come!
+Type=YOUNGSTER
+EndSpeechWin="Yes, I won!"
+[004]
+EndSpeechLose="Man, I lost!"
+Name=SKOR
+PokemonNos=9,26,51,59,73,91,113
+BeginSpeech=Here I come!
+Type=YOUNGSTER
+EndSpeechWin="Yes, I won!"

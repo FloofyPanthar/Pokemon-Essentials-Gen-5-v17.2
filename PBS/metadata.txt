@@ -1,0 +1,250 @@
+﻿#-------------------------------
+[000]
+PlayerA=TRAINER_Nate,trchar000,plbike000.png,plsurf000.png,plrun000.png,plsurf000.png,plfish000.png,plfish000.png
+PlayerB=TRAINER_Rosa,trchar001,plbike001.png,plsurf001.png,plrun001.png,plsurf001.png,plfish001.png,plfish001.png
+PlayerC=TRAINER_Black,trchar002,plbike002.png,plsurf002.png,plrun002.png,plsurf002.png,plfish002.png,xxx
+PlayerD=TRAINER_White,trchar003,plbike003.png,plsurf003.png,plrun003.png,plsurf003.png,plfish003.png,xxx
+TrainerVictoryME=Victory_Trainer.ogg
+WildVictoryME=Victory_Wild.ogg
+TrainerBattleBGM=VS_Trainer.ogg
+SurfBGM=Surf.ogg
+BicycleBGM=Bicycle.ogg
+SpecialWildBGM=VS_WildSpecial.ogg
+Home=4,8,10,8
+WildBattleBGM=VS_WildPoke.ogg
+#-------------------------------
+[003]
+# Lappet Town
+Bicycle=true
+MapPosition=0,13,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[006]
+# Pokémon Lab
+#-------------------------------
+[007]
+# Route 1
+Bicycle=true
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[008]
+# Cedolan City
+MapSize=1,
+Bicycle=true
+MapPosition=0,13,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[009]
+# Cedolan Poké Center
+HealingSpot=8,46,22
+#-------------------------------
+[010]
+# Cedolan Gym
+Outdoor=false
+#-------------------------------
+[019]
+# Route 2
+MapSize=2,1010
+Bicycle=true
+MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[020]
+# Route 2
+MapSize=2,"1,1,1,1"
+BattleBack=Mountain
+Weather=Rain,80
+Bicycle=true
+MapPosition=0,13,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[021]
+# Lerucean Town
+Bicycle=true
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[022]
+# Lerucean Poké Center
+HealingSpot=21,13,16
+#-------------------------------
+[026]
+# Natural Park
+Bicycle=true
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[029]
+# Route 3
+MapPosition=0,13,5
+Outdoor=true
+#-------------------------------
+[030]
+# Ice Cave
+Bicycle=false
+MapPosition=0,15,5
+#-------------------------------
+[031]
+# Safari Zone Gate
+Bicycle=true
+MapPosition=0,12,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[033]
+# Safari Zone
+SnapEdges=false
+Dungeon=false
+SafariMap=true
+Outdoor=true
+#-------------------------------
+[034]
+# Ingido Plateau
+Bicycle=true
+MapPosition=0,12,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[035]
+# Pokémon League
+MapPosition=0,12,5
+HealingSpot=34,17,8
+ShowArea=false
+#-------------------------------
+[036]
+# Pokémon League
+MapPosition=0,12,5
+#-------------------------------
+[037]
+# Pokémon League
+BattleBack=EliteB
+TrainerBattleBGM=Champion.ogg
+MapPosition=0,12,5
+#-------------------------------
+[039]
+# Route 4
+Bicycle=true
+MapPosition=0,11,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[040]
+# Route 4
+Bicycle=true
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[042]
+# Route 5
+Bicycle=true
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[043]
+# Route 6
+MapSize=1,
+Bicycle=true
+MapPosition=0,10,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[044]
+# Route 6
+Bicycle=true
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[045]
+# Cycling Road gate
+#-------------------------------
+[046]
+# Route 7
+Weather=Rain,0
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[047]
+# Rock Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,12
+#-------------------------------
+[048]
+# Rock Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,13,16
+DarkMap=true
+#-------------------------------
+[049]
+# Dungeon
+Dungeon=true
+#-------------------------------
+[050]
+# Battle Frontier
+MapPosition=0,17,13
+#-------------------------------
+[051]
+# Frontier Poké Center
+HealingSpot=50,17,14
+#-------------------------------
+[063]
+# Route 8
+Bicycle=true
+MapPosition=0,13,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[065]
+# Harbour
+MapPosition=0,13,16
+#-------------------------------
+[066]
+# Vittorio Island
+Bicycle=true
+Outdoor=true
+WildBattleBGM=VS_LegTrio.ogg
+ShowArea=true
+#-------------------------------
+[067]
+# Pledge Island
+Bicycle=true
+Outdoor=true
+WildBattleBGM=VS_LegTrio.ogg
+ShowArea=true
+#-------------------------------
+[069]
+# Narvera Town
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[070]
+# Route 1
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[071]
+# Asula Town
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[072]
+# Route 2
+Bicycle=true
+Outdoor=true
+ShowArea=true
