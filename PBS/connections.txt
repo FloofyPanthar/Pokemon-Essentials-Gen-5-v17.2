@@ -1,13 +1,3 @@
-# Route 2 (72) - Asula Town (71)
-72,East,8,71,West,0
-# Route 1 (70) - Asula Town (71)
-70,North,0,71,South,0
-# Narvera Town (69) - Route 2 (72)
-69,West,0,72,East,88
-# Route 1 (70) - Route 2 (72)
-70,West,0,72,East,56
-# Route 1 (70) - Narvera Town (69)
-70,South,0,69,North,0
 # Ingido Plateau (34) - Route 4 (39)
 34,West,9,39,East,0
 # Route 7 (46) - Battle Frontier (50)

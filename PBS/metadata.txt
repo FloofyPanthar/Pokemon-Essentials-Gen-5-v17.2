@@ -208,7 +208,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [065]
-# Harbour
+# Lappet Harbour
 MapPosition=0,13,16
 #-------------------------------
 [066]
@@ -232,19 +232,16 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [070]
-# Route 1
 Bicycle=true
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [071]
-# Asula Town
 Bicycle=true
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [072]
-# Route 2
 Bicycle=true
 Outdoor=true
 ShowArea=true
