@@ -51,36 +51,30 @@ MegaMessage=0
 Type1=STEEL
 #-------------------------------
 [ARCEUS-9]
-FormName=Unknown Type
-UnmegaForm=0
-MegaMessage=0
-Type1=QMARKS
-#-------------------------------
-[ARCEUS-10]
 FormName=Fire Type
 UnmegaForm=0
 MegaMessage=0
 Type1=FIRE
 #-------------------------------
-[ARCEUS-11]
+[ARCEUS-10]
 FormName=Water Type
 UnmegaForm=0
 MegaMessage=0
 Type1=WATER
 #-------------------------------
-[ARCEUS-12]
+[ARCEUS-11]
 FormName=Grass Type
 UnmegaForm=0
 MegaMessage=0
 Type1=GRASS
 #-------------------------------
-[ARCEUS-13]
+[ARCEUS-12]
 FormName=Electric Type
 UnmegaForm=0
 MegaMessage=0
 Type1=ELECTRIC
 #-------------------------------
-[ARCEUS-14]
+[ARCEUS-13]
 FormName=Psychic Type
 UnmegaForm=0
 MegaMessage=0
@@ -89,7 +83,7 @@ WildItemCommon=
 WildItemUncommon=
 WildItemRare=
 #-------------------------------
-[ARCEUS-15]
+[ARCEUS-14]
 FormName=Ice Type
 UnmegaForm=0
 MegaMessage=0
@@ -98,7 +92,7 @@ WildItemCommon=
 WildItemUncommon=
 WildItemRare=
 #-------------------------------
-[ARCEUS-16]
+[ARCEUS-15]
 FormName=Dragon Type
 UnmegaForm=0
 MegaMessage=0
@@ -107,7 +101,7 @@ WildItemCommon=
 WildItemUncommon=
 WildItemRare=
 #-------------------------------
-[ARCEUS-17]
+[ARCEUS-16]
 FormName=Dark Type
 UnmegaForm=0
 MegaMessage=0

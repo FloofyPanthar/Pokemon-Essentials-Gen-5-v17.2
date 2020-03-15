@@ -9,7 +9,6 @@ WildVictoryME=Victory_Wild.ogg
 TrainerBattleBGM=VS_Trainer.ogg
 SurfBGM=Surf.ogg
 BicycleBGM=Bicycle.ogg
-SpecialWildBGM=VS_WildSpecial.ogg
 Home=4,8,10,8
 WildBattleBGM=VS_WildPoke.ogg
 #-------------------------------
@@ -84,8 +83,11 @@ ShowArea=true
 #-------------------------------
 [029]
 # Route 3
+MapSize=3,110010010
+Bicycle=true
 MapPosition=0,13,5
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [030]
 # Ice Cave
@@ -212,7 +214,7 @@ ShowArea=true
 MapPosition=0,13,16
 #-------------------------------
 [066]
-# Vittorio Island
+# Liberni Island
 Bicycle=true
 Outdoor=true
 WildBattleBGM=VS_LegTrio.ogg
@@ -232,16 +234,19 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [070]
+# Route 3
 Bicycle=true
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [071]
+# Route 1
 Bicycle=true
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [072]
+# TharrNew
 Bicycle=true
 Outdoor=true
 ShowArea=true

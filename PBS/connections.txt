@@ -1,15 +1,11 @@
-# Ingido Plateau (34) - Route 4 (39)
-34,West,9,39,East,0
+# Narvera Town (69) - Route 1 (71)
+69,North,0,71,South,0
 # Route 7 (46) - Battle Frontier (50)
 46,East,8,50,West,0
+# Ingido Plateau (34) - Route 4 (39)
+34,West,9,39,East,0
 # Route 3 (29) - Ingido Plateau (34)
 29,West,0,34,East,6
-# Route 2 (20) - Route 3 (29)
-20,North,7,29,South,0
-# Natural Park (26) - Route 3 (29)
-26,North,0,29,South,68
-# Lerucean Town (21) - Route 3 (29)
-21,North,0,29,South,32
 # Route 7 (46) - Route 1 (7)
 46,South,0,7,North,62
 # Cedolan City (8) - Route 1 (7)
@@ -18,26 +14,32 @@
 3,North,0,7,South,4
 # Safari Zone Gate (31) - Route 1 (7)
 31,North,22,7,South,0
-# Cedolan City (8) - Route 7 (46)
-8,East,0,46,West,0
+# Route 2 (20) - Route 3 (29)
+20,North,7,29,South,0
+# Natural Park (26) - Route 3 (29)
+26,North,0,29,South,68
+# Lerucean Town (21) - Route 3 (29)
+21,North,0,29,South,32
 # Route 2 (19) - Route 7 (46)
 19,East,33,46,West,0
+# Cedolan City (8) - Route 7 (46)
+8,East,0,46,West,0
 # Route 2 (20) - Route 7 (46)
 20,East,77,46,West,0
 # Lappet Town (3) - Route 8 (63)
 3,South,0,63,North,12
 # Safari Zone Gate (31) - Route 8 (63)
 31,South,14,63,North,0
-# Route 2 (19) - Cedolan City (8)
-19,South,0,8,North,21
-# Route 6 (43) - Cedolan City (8)
-43,East,0,8,West,9
-# Lerucean Town (21) - Cedolan City (8)
-21,West,77,8,East,0
+# Cedolan City (8) - Route 2 (19)
+8,North,21,19,South,0
 # Route 2 (20) - Route 2 (19)
 20,South,0,19,North,0
 # Lerucean Town (21) - Route 2 (19)
 21,West,44,19,East,0
+# Lerucean Town (21) - Cedolan City (8)
+21,West,77,8,East,0
+# Route 6 (43) - Cedolan City (8)
+43,East,0,8,West,9
 # Safari Zone Gate (31) - Lappet Town (3)
 31,East,0,3,West,0
 # Lerucean Town (21) - Route 2 (20)

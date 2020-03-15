@@ -1,4 +1,4 @@
 [POKEDEXES]
-pokedex1=Untitled Pokédex
-pokedex2=Untitled Pokédex
+pokedex1=Retro Unova Pokedex
+pokedex2=Neo Unova Pokédex
 
