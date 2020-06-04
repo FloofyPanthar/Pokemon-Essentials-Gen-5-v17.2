@@ -1,4 +1,4 @@
-﻿1,REPEL,Repel,Repels,1,350,"An item that prevents weak wild Pokémon from appearing for 100 steps after its use.",2,0,0,
+1,REPEL,Repel,Repels,1,350,"An item that prevents weak wild Pokémon from appearing for 100 steps after its use.",2,0,0,
 2,SUPERREPEL,Super Repel,Super Repels,1,500,"An item that prevents weak wild Pokémon from appearing for 200 steps after its use.",2,0,0,
 3,MAXREPEL,Max Repel,Max Repels,1,700,"An item that prevents weak wild Pokémon from appearing for 250 steps after its use.",2,0,0,
 4,BLACKFLUTE,Black Flute,Black Flutes,1,400,"A black flute made from blown glass. Its melody makes wild Pokémon less likely to appear.",2,0,0,
@@ -523,3 +523,5 @@
 523,REVEALGLASS,Reveal Glass,Reveal Glasses,5,0,"A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.",5,0,6,
 524,OVALCHARM,Oval Charm,Oval Charms,5,0,"An oval charm said to increase the chance of Eggs being found at the Day Care.",0,0,6,
 525,SHINYCHARM,Shiny Charm,Shiny Charms,5,0,"A shiny charm said to increase the chance of finding a Shiny Pokémon.",0,0,6,
+526,EXPLORERKIT,Explorer Kit,Town Maps,5,0,"A bag filled with conventient tools for exploring. It provides access to the Underground.",2,0,6,
+527,APRICORNCASE,Town Map,Town Maps,5,0,"A handy box where you can store up to 99 Apricorns of each kind.",2,0,6,

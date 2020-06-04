@@ -111,7 +111,7 @@ WildItemUncommon=
 WildItemRare=
 #-------------------------------
 [BASCULIN-1]
-FormName=Blue-Striped
+FormName=Blue-Striped Form
 UnmegaForm=0
 MegaMessage=0
 Type1=WATER
