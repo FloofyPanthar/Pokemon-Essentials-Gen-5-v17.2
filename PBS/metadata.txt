@@ -36,11 +36,19 @@ ShowArea=true
 #-------------------------------
 [009]
 # Cedolan Poké Center
+Outdoor=false
 HealingSpot=8,46,22
+ShowArea=false
 #-------------------------------
 [010]
 # Cedolan Gym
 Outdoor=false
+#-------------------------------
+[011]
+# Cedolan City Condo
+Bicycle=false
+Outdoor=false
+ShowArea=false
 #-------------------------------
 [019]
 # Route 2
@@ -245,5 +253,15 @@ ShowArea=true
 [072]
 # TharrNew
 Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[073]
+# Asula Town
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[079]
+# Narvera Town
 Outdoor=true
 ShowArea=true
