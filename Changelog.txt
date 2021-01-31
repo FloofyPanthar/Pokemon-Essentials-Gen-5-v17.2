@@ -1,0 +1,128 @@
+#---------------------------------------#
+#---------------------------------------#
+#	2020				#
+#---------------------------------------#
+9/16: Moved Hidden Islands
+9/17: Updated Region Map graphics
+9/30: Map Edits (Safari Zone)
+10/1: Region Map UI Screen: Added in sprite "mapdetails"
+11/9: Trainer Card modifications:
+	Fixed glitch where card didn't show up on single screen mode
+	Used the new "scale" method instead of "Zoom_X
+11/26: Edited the cutting tree
+	Fixed the transparency of many sprites in "characters"
+	Edited the OW Shadow Sprite (color, alpha, & width)
+11/27: Put in intro script
+11/29:
+	Fixed tile errors on Cycling Road Gate
+	More edits on intro script
+	Ripped future battle graphics (double battle)
+	Removed useless transitions
+	File sorting
+11/30:
+	Fixed the waterfall by adding top back in
+	A few minor map edits
+	Worked on a waterfall animation
+12/5
+	Did I do something?
+12/7
+	Tileset Work
+	Added in DS Turnaround Script by WolfPP
+Did pokedex edits at somepoint inbetween these two dates, maybe 12/8?
+12/11:
+	Fixed pokedex text elements that were hidden & edited pokedex UI Graphics
+12/22:
+	Fixed battle glitch found in Version 0.0.7.1
+		Update: Changed stuff that had temporarily fixed the battle glitch for some reason.
+12/27?:
+	Added Marin's door animation I forgot to implement
+12/29:
+	Created method "pbStringSpecies"
+	Coding "cleanup" in more places
+		Utilised "scale" method in more spots
+		Put Dashes in the name of some constants
+	Took out the shadow and charged stuff in the DynamicSprite code, ACTUALLY fixing the battle glitch
+	Added in a zoom choosing option for Battle Backgrounds
+12/31:
+	Modifications to the trainer types txt (only plasma members though)
+	Added new (currently unfunctional) settings that set up specific battle transitions for trainers & pokemon
+
+#---------------------------------------#
+#---------------------------------------#
+#	2021!!!!			#
+#---------------------------------------#
+1/4: 
+	Summary Screen:
+		Fixed UI code for "Move Detail"
+		Modified "BG_MoveDetail" & "Cursor_Move" Graphics
+		Created a folder to contain all the pokeballs
+		Corrected the HP Bar colors
+	Added in a newer version of Luka's Utilities
+	Created some HP Bar Methods to make them easier to create
+Made Small modifications to the title script
+1/8:
+	Turned off "move animation" for door events to prevent weird glitching
+	Edits to Object "Character" Sprites:
+		Took out transparent and extra/duplicate frames
+		Replaced dash in their name with a space
+	Took out testing characters on Route 3 that I forgot about
+1/10:
+	Finished edits to 'Object' "Character" Sprites
+		Removed shadow from "Object_Tree"
+	More progress on Route 3 mapping
+	Pokedex:
+		Fixed the sliding bar for Pokedex
+		"Removed invisible arrows"
+	Put "VS_Rival" back in the BGM folder (don't know what happened to it)
+1/12 or 13:
+	Started editing town map/flying locations
+1/14:
+	Finished metadata/town map edits
+	Fixed some door transfer locations
+1/20:
+	Fixed direction of Pokedex BG scrolling
+1/24:
+	Changed the dex's bg scrolling units to 2
+	Updated scroll bar in Pokedex BG & slider to be more faithful to OG BW Pokedex design
+	Minor edits to the "Advanced Command" script
+	"pbPlayCloseSE" now plays the correct audio
+	Made both the evil team & special trainer transitions not require the blank bitmap
+1/27:
+(All changes located in the Pokedex)
+	Major edits to scroller, made it a single graphic
+	Moved "scroll bar" in the main bg sprite
+	Replaced "icon_slider" graphic
+	All "icon_xx" files are now capitalised
+	ADVANCED POKEDEX LIST WORKS!!
+	Added in a (faulty) icon sprite into each list item on pokedex
+1/28:
+	Pokedex:
+	More file capitalisation
+	Made adjustments to listings
+	Started modifying overlays	
+1/29:
+	Region Map:
+		Fixed faulty fly symbol
+1/30
+	Tileset:
+		Fixed missing tree shadow and discolored blank tile
+		Took out shaded slope
+	Pokedex:
+		Put in animated backgrounds
+		Turned old BGs into overlays
+		Took out "areaoverlay", as it is now redundant
+		Pokemon with no gender/forms just have names displayed, "Genderless" text has been removed
+		Moved mini sprite and text for Forms page
+	Fixed Fishing!
+	Made "river bend" & "surf ledge corner" tiles have the "surf ledge" tag so the player can't fish on them
+	Fixed the surf grass glitch
+	Deleted unnused fonts in font folder
+	Edited the font list
+	Fixed button locations
+	Control scene:
+		Correct button graphics now shown
+		Button and text locations moved
+		New text for X button added & B button text corrected
+	Added in "City_Aspertia" into BGM
+	Removed "EncounterDancer" from ME folder
+	Switched "Fly" graphic in Map folder with "FlyablePoint"

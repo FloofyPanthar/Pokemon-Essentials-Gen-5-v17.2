@@ -28,7 +28,6 @@ ShowArea=true
 #-------------------------------
 [008]
 # Cedolan City
-MapSize=1,
 Bicycle=true
 MapPosition=0,13,12
 Outdoor=true
@@ -36,19 +35,29 @@ ShowArea=true
 #-------------------------------
 [009]
 # Cedolan Poké Center
+MapPosition=0,13,12
 Outdoor=false
-HealingSpot=8,46,22
+HealingSpot=8,48,10
 ShowArea=false
 #-------------------------------
 [010]
 # Cedolan Gym
+MapPosition=0,13,12
 Outdoor=false
 #-------------------------------
 [011]
 # Cedolan City Condo
 Bicycle=false
+MapPosition=0,13,12
 Outdoor=false
 ShowArea=false
+#-------------------------------
+[013]
+# Cedolan Dept. 1F
+MapPosition=0,15,8
+#-------------------------------
+[016]
+# Cedolan Dept. 4F
 #-------------------------------
 [019]
 # Route 2
@@ -60,7 +69,7 @@ ShowArea=true
 #-------------------------------
 [020]
 # Route 2
-MapSize=2,"1,1,1,1"
+MapSize=2,1010
 BattleBack=Mountain
 Weather=Rain,80
 Bicycle=true
@@ -77,7 +86,20 @@ ShowArea=true
 #-------------------------------
 [022]
 # Lerucean Poké Center
+MapPosition=0,14,8
 HealingSpot=21,13,16
+#-------------------------------
+[023]
+# Pokémon Fan Club
+MapPosition=0,14,8
+#-------------------------------
+[024]
+# Pokémon Day Care
+MapPosition=0,14,8
+#-------------------------------
+[025]
+# Kurt's house
+MapPosition=0,14,8
 #-------------------------------
 [026]
 # Natural Park
@@ -85,6 +107,14 @@ Bicycle=true
 MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[027]
+# Natural Park Entrance
+MapPosition=0,15,8
+#-------------------------------
+[028]
+# Natural Park Pavillion
+MapPosition=0,15,8
 #-------------------------------
 [029]
 # Route 3
@@ -108,8 +138,7 @@ ShowArea=true
 #-------------------------------
 [033]
 # Safari Zone
-SnapEdges=false
-Dungeon=false
+MapPosition=0,12,14
 SafariMap=true
 Outdoor=true
 #-------------------------------
@@ -124,7 +153,6 @@ ShowArea=true
 # Pokémon League
 MapPosition=0,12,5
 HealingSpot=34,17,8
-ShowArea=false
 #-------------------------------
 [036]
 # Pokémon League
@@ -133,11 +161,15 @@ MapPosition=0,12,5
 [037]
 # Pokémon League
 BattleBack=EliteB
-TrainerBattleBGM=Champion.ogg
+TrainerBattleBGM=VS_Champion.ogg
 MapPosition=0,12,5
+#-------------------------------
+[038]
+# Hall of Fame
 #-------------------------------
 [039]
 # Route 4
+MapSize=1,1
 Bicycle=true
 MapPosition=0,11,5
 Outdoor=true
@@ -145,40 +177,52 @@ ShowArea=true
 #-------------------------------
 [040]
 # Route 4
+MapSize=2,1010
 Bicycle=true
+MapPosition=0,10,5
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 #-------------------------------
+[041]
+# Cycling Road gate
+MapPosition=0,11,5
+#-------------------------------
 [042]
 # Route 5
+MapSize=4,1000100010001
 Bicycle=true
+MapPosition=0,10,7
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [043]
 # Route 6
-MapSize=1,
 Bicycle=true
-MapPosition=0,10,9
+MapPosition=0,12,12
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [044]
 # Route 6
+MapSize=2,1011
 Bicycle=true
+MapPosition=0,10,11
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [045]
 # Cycling Road gate
+MapPosition=0,11,12
 #-------------------------------
 [046]
 # Route 7
+MapSize=3,100111
 Weather=Rain,0
 Bicycle=true
+MapPosition=0,14,12
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -192,7 +236,7 @@ MapPosition=0,15,12
 # Rock Cave
 BattleBack=Cave
 Bicycle=true
-MapPosition=0,13,16
+MapPosition=0,15,12
 DarkMap=true
 #-------------------------------
 [049]
@@ -201,11 +245,14 @@ Dungeon=true
 #-------------------------------
 [050]
 # Battle Frontier
+Bicycle=true
 MapPosition=0,17,13
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [051]
 # Frontier Poké Center
-HealingSpot=50,17,14
+HealingSpot=50,17,13
 #-------------------------------
 [063]
 # Route 8
@@ -260,6 +307,9 @@ ShowArea=true
 # Asula Town
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[074]
+# TileTest
 #-------------------------------
 [079]
 # Narvera Town

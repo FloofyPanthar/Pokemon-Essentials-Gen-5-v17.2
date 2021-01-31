@@ -1,0 +1,47 @@
+
+PokEssentials Gen 5 Alpha 8
+===============================================================================
+FAQ:
+
+    What exactly makes PokEssentials BW different from vanilla Pokémon Essentials
+        There are a few significant differences, the most minor of these being
+        the sprites and tilesets matching the style of Pokémon Black and White.
+        The more useful differences are UI, Script, and Event changes to more
+        easily create a game similar to the Pokémon games created in 2011 & 2012
+
+    If all of these changes can be replicated in vanilla essentials, what is 
+    even the point of downloading this modified version?
+        That is true, all of the changes made in these games can be made within
+        the confines of the orginial Pokémon Essentials. However, these changes
+        are hard to make for beginners and can be very time consuming even for
+        someone who is skilled with RMXP. I would recommend this pack to anybody
+        who has the desire to create a fangame similar to BW/BW2 (Gen 5) since
+        the hard work to convert the UI and mechanics from an HGSS/FRLG game has
+        already been done.
+
+    What is the point of making this when Klein's BW Pack already exists?   
+        As great as Pokémon Essentials BW is, its creator, KleinStudios has been
+        quite inactive in the Pokémon fangame community. There is no way of knowing
+        whether or not he will update his project or even his add on scripts.
+        The lastest verson of his project, v3.1.1, released over 3 years ago,
+        has code reminants from version 15! Therefore, the project is reletively
+        buggy and works quite poorly with some of our community's newest scripts.
+
+    Wait... are these fangames illegal?
+        I don't know, I don't care. I believe that fans should be able to have
+        the power to make fangames without having to fear legal action.
+        I believe that we should never stop doing what we love because of 
+        corporate greed.
+
+    The game constantly keeps on telling me to install the fonts, what the heck 
+    does this mean and how do I do it?"
+        There is a font folder included in essentials, take the files in there
+        and drag them into your computers font folder.
+
+    Why aren't some of the keys working?
+        PEG5 has different controls than you may be use to, but the controls are
+        more intuitive than regular Essentials. Every button is pressed by its
+        corresponding key: A->A, B->B, etc. There are a few exceptions though;
+        Shift can be used for to run, as most Essentials fans are accustomed to it,
+        And Start and Select, which don't exist on a keyboard, are controled by
+        the Enter and Shift keys respectively

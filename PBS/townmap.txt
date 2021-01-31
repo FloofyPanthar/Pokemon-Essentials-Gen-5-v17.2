@@ -1,15 +1,15 @@
 [0]
 Name=Essen
 Filename=Region0.png
-Point=13,14,"Lappet Town","Juniper Pokémon Lab",,,,
+Point=13,14,"Lappet Town","Juniper Pokémon Lab",3,8,9,
 Point=12,14,"Safari Zone",,,,,
-Point=13,12,"Celdolan City","Celdolan Department Store",,,,
-Point=14,8,"Leurucean City","Day Care",,,,
+Point=13,12,"Celdolan City","Celdolan Department Store",8,48,10,
+Point=14,8,"Leurucean City","Day Care",21,13,16,
 Point=15,8,"Natural Park",,,,,
 Point=15,5,"Ice Cave",,,,,
-Point=12,5,"Pokémon League","Pokémon Center",,,,
+Point=12,5,"Pokémon League","Pokémon Center",34,17,8,
 Point=15,12,"Rock Cave",,,,,
-Point=17,13,"Battle Frontier","Pokémon Center",,,,
+Point=17,13,"Battle Frontier","Pokémon Center",50,17,14,
 Point=13,16,"Lappet Harbour",,,,,
 Point=13,13,"Route 1",,,,,
 Point=13,11,"Route 2",,,,,
@@ -36,3 +36,4 @@ Point=14,13,"Route 7",,,,,
 Point=15,13,"Route 7",,,,,
 Point=16,13,"Route 7",,,,,
 Point=13,15,"Route 8",,,,,
+
